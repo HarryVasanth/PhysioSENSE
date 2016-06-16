@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libmyoandroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobile/src/main/jniLibs/libmyoandroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

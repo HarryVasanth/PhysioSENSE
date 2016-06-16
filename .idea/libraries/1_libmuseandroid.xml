@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_libmuseandroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobile/src/main/jniLibs/libmuseandroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
